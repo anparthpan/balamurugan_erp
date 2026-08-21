@@ -1,0 +1,13 @@
+- `[/]` Core Model Updates
+    - `[ ]` Add `serialNumber` to `LineItem` in `models.dart`
+    - `[ ]` Add `ServiceStatus` and update `ServiceJob` in `models.dart`
+- `[ ]` Data Logic Enhancements
+    - `[ ]` Implement `getAgeingReport` in `balamurugan_data.dart`
+    - `[ ]` Implement `getCustomerStatement` in `balamurugan_data.dart`
+- `[ ]` UI - Data Entry Upgrades
+    - `[ ]` Update `VoucherEntryScreen` with Serial Number input
+    - `[ ]` Update `ServiceEntryScreen` with Status workflow
+- `[ ]` UI - Advanced Reports
+    - `[ ]` Create `AgeingReportScreen`
+    - `[ ]` Create `CustomerStatementScreen`
+- `[ ]` Verification & Polish
